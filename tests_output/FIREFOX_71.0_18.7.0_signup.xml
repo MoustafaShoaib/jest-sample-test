@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="4">
+
+  <testsuite name="signup"
+    errors="0" failures="0" hostname="" id="" package="signup" skipped="0"
+    tests="4" time="19.70" timestamp="">
+  
+    <testcase name="entering valid username only" classname="signup" time="3.333" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="entering no data" classname="signup" time="5.734" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="entering valid password only" classname="signup" time="6.136" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="entering all valid data" classname="signup" time="4.499" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
